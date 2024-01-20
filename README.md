@@ -1,11 +1,13 @@
-# kaue vinicius de barros
+# Kauê vinicius de barros
 
-## sou formado no ensino médio.
+sou formado no ensino médio.
 
-## sou um facilitador de acessos.
+sou um facilitador de acessos.
 
-# hobbies frequentar academia, Games.
+# hobbies
 
-# aluno de progracão python.
+frequentar academia, Games.
+
+aluno de programacão python.
 
 :muscle:
