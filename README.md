@@ -10,4 +10,4 @@ frequentar academia, Games.
 
 aluno de programacão python.
 
-:muscle:
+:muscle: :heart:
