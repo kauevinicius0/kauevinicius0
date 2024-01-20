@@ -1,4 +1,4 @@
-# kaue vinicius de barros
+# Kauê vinicius de barros
 
 sou formado no ensino médio.
 
