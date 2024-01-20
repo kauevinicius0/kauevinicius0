@@ -4,7 +4,7 @@
 
 ## sou um facilitador de acessos.
 
-# hobbies frequentar academia, Games.
+hobbies frequentar academia, Games.
 
-# aluno de progracão python.
+aluno de programacão python.
 
